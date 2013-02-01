@@ -9,9 +9,9 @@ server: false
 #bootstrap: "http://netdna.bootstrapcdn.com/twitter-bootstrap/2.2.2"
 #prettify: "http://cdnjs.cloudflare.com/ajax/libs/prettify/r224"
 
-bootstrap: "http://some.place.com/bootstrap"
-prettify: "http://some.place.com/bootstrap"
-jquery: "http://some.place.com/js/jquery.js"
+bootstrap: "http://joonhwan.github.com/bootstrap"
+prettify: "http://joonhwan.github.com/bootstrap"
+jquery: "http://joonhwan.github.com/js/jquery.js"
 
 # 'label' is the short label of the index.html where it appears in the
 # top-right corner of all pages
